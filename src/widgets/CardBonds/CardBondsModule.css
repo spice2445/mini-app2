@@ -1,0 +1,98 @@
+.CardChip {
+  background: #2ba8fa !important;
+  width: 79px;
+  height: 24px;
+  top: 15px;
+  left: 241px;
+  opacity: 0px;
+}
+
+.CardChipText {
+  font-size: 10px !important;
+  text-align: center;
+  font-weight: 700;
+  line-height: 11.33px;
+}
+
+.logo {
+  display: flex;
+  position: inherit;
+  top: 15px !important;
+  left: 15px !important;
+  color: black !important;
+}
+
+.logoText {
+  display: flex;
+  position: relative;
+  top: 12px;
+  left: 10px;
+}
+
+.ProjectInfo {
+  display: flex;
+  top: -30px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.ProgressValue {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 143px;
+  height: 22px;
+  top: 204px;
+  left: 116px;
+  gap: 10px;
+  border-radius: 5px;
+  opacity: 0px;
+  background: #2ba8fa;
+}
+
+.ProgressText {
+  text-align: center;
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 11.33px;
+  letter-spacing: 0.03em;
+}
+
+.TimerInfo {
+  top: -30px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.TimeBlock {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  width: 57px;
+  height: 35px;
+  border-radius: 5px;
+  opacity: 0px;
+  backdrop-filter: blur(10px);
+  background: #2ba8fa80;
+  margin: 0px 2.5px;
+}
+
+.TimeDigits {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 15.87px;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
+
+.TimeName {
+  font-size: 6px;
+  font-weight: 700;
+  line-height: 6.8px;
+  text-align: center;
+}
